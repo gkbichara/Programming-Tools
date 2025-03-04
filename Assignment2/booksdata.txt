@@ -11,6 +11,6 @@ Baumer|Kaplan|Horton,2017,Modern Data Science with R,Taylor & Francis CRC Press
 Pierson,2015,Data Science For Dummies,Wiley
 Muenchen|Hoyt,2019,Introduction to Biomedical Data Science,Lulu
 Carter,2020,Data Science for Mathematicians,CRC Press
-Meysman|Cien,2016,Introducing Data Science,Manning
+Meysman|Cielen,2016,Introducing Data Science,Manning
 Godsey,2017,Think Like a Data Scientist: Tackle the Data Science Process Step-by-step,Manning
-Brunton|Kutz,20,Data-Driven Science and Engineering,Cambridge University Press
+Brunton|Kutz,2019,Data-Driven Science and Engineering,Cambridge University Press
